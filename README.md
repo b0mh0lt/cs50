@@ -1,5 +1,6 @@
 # CS50 Portfolio
 
+A collection of problem sets and final project of [Harvard University's CS50](https://cs50.harvard.edu/) via [edX](https://www.edx.org/)
 
 ### Problem Set 0
 
