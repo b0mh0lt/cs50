@@ -1,6 +1,6 @@
-# CS50 Portfolio
+# CS50: Introduction to Computer Science
 
-A collection of problem sets and final project of [Harvard University's CS50](https://cs50.harvard.edu/) via [edX](https://www.edx.org/)
+My solutions to problem sets and final project of [Harvard University's CS50](https://cs50.harvard.edu/) via [edX](https://www.edx.org/)
 
 ### Problem Set 0
 
@@ -11,20 +11,20 @@ A collection of problem sets and final project of [Harvard University's CS50](ht
 
 ### Problem Set 1
 
-* [Hello](https://github.com/bomholtm/cs50-portfolio/tree/master/pset1/hello.c)
-* [Water](https://github.com/bomholtm/cs50-portfolio/tree/master/pset1/water.c)
-* [Mario (More)](https://github.com/bomholtm/cs50-portfolio/tree/master/pset1/mario.c)
-* [Credit](https://github.com/bomholtm/cs50-portfolio/tree/master/pset1/credit.c)
+* [Hello](https://github.com/bomholtm/cs50/tree/master/pset1/hello.c)
+* [Water](https://github.com/bomholtm/cs50/tree/master/pset1/water.c)
+* [Mario (More)](https://github.com/bomholtm/cs50/tree/master/pset1/mario.c)
+* [Credit](https://github.com/bomholtm/cs50/tree/master/pset1/credit.c)
 
 
 ### Problem Set 2
 
-* [Initials (More)](https://github.com/bomholtm/cs50-portfolio/tree/master/pset2/initials.c)
-* [Caesar](https://github.com/bomholtm/cs50-portfolio/tree/master/pset2/caesar.c)
-* [Vigenere](https://github.com/bomholtm/cs50-portfolio/tree/master/pset2/vigenere.c)
+* [Initials (More)](https://github.com/bomholtm/cs50/tree/master/pset2/initials.c)
+* [Caesar](https://github.com/bomholtm/cs50/tree/master/pset2/caesar.c)
+* [Vigenere](https://github.com/bomholtm/cs50/tree/master/pset2/vigenere.c)
 
 
 ### Problem Set 3
 
-* [Find (More)](https://github.com/bomholtm/cs50-portfolio/tree/master/pset3/find)
-* [Fifteen](https://github.com/bomholtm/cs50-portfolio/tree/master/pset3/fifteen)
+* [Find (More)](https://github.com/bomholtm/cs50/tree/master/pset3/find)
+* [Fifteen](https://github.com/bomholtm/cs50/tree/master/pset3/fifteen)
