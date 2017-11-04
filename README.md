@@ -21,6 +21,7 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
 
   - [ ] :squirrel:
 
+***
 
 ### Problem Set 0: Scratch
 
@@ -73,3 +74,5 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
 ### Problem Set 8: Mashup
 
 * :squirrel:
+
+***
