@@ -14,7 +14,7 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
   - [ ] **Problem Set 4: Forensics**
   - [ ] **Problem Set 5: Mispellings**
   - [ ] **Problem Set 6: Sentimental**
-  - [ ] **Problem Set 7: CS50 Finance**
+  - [ ] **Problem Set 7: C$50 Finance**
   - [ ] **Problem Set 8: Mashup**
 
 * **Final Project**
@@ -22,6 +22,7 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
   - [ ] :squirrel:
 
 ***
+
 
 ### Problem Set 0: Scratch
 
