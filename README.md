@@ -2,8 +2,7 @@
 
 My solutions to problem sets and final project of [Harvard University's CS50](https://cs50.harvard.edu/) via [edX](https://www.edx.org/)
 
-&nbsp; &nbsp;
-***
+&nbsp;
 
 ### Table of Contents
 
@@ -23,16 +22,16 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
 
   - [ ] :squirrel:
 
-***
+&nbsp;
 
-&nbsp; &nbsp;
 ### Problem Set 0: Scratch
 
 * [Scratch](https://scratch.mit.edu/projects/120298616/#fullscreen)
 
   [![](_assets/README/invaderoids.jpg)](https://scratch.mit.edu/projects/120298616/#fullscreen)
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 1: C
 
 * [Hello](https://github.com/bomholtm/cs50/tree/master/problem_set_1_c/hello.c)
@@ -40,40 +39,47 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
 * [Mario (More)](https://github.com/bomholtm/cs50/tree/master/problem_set_1_c/mario.c)
 * [Credit](https://github.com/bomholtm/cs50/tree/master/problem_set_1_c/credit.c)
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 2: Crypto
 
 * [Initials (More)](https://github.com/bomholtm/cs50/tree/master/problem_set_2_crypto/initials.c)
 * [Caesar](https://github.com/bomholtm/cs50/tree/master/problem_set_2_crypto/caesar.c)
 * [Vigenere](https://github.com/bomholtm/cs50/tree/master/problem_set_2_crypto/vigenere.c)
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 3: Game of Fifteen
 
 * [Find (More)](https://github.com/bomholtm/cs50/tree/master/problem_set_3_game_of_fifteen/find)
 * [Fifteen](https://github.com/bomholtm/cs50/tree/master/problem_set_3_game_of_fifteen/fifteen)
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 4: Forensics
 
 * :squirrel:
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 5: Mispellings
 
 * :squirrel:
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 6: Sentimental
 
 * :squirrel:
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 7: C$50 Finance
 
 * :squirrel:
 
-&nbsp; &nbsp;
+&nbsp;
+
 ### Problem Set 8: Mashup
 
 * :squirrel:
