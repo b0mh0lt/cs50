@@ -24,6 +24,8 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
 
 &nbsp;
 
+# Problem Sets
+
 ### Problem Set 0: Scratch
 
 * [Scratch](https://scratch.mit.edu/projects/120298616/#fullscreen)
@@ -83,3 +85,9 @@ My solutions to problem sets and final project of [Harvard University's CS50](ht
 ### Problem Set 8: Mashup
 
 * :squirrel:
+
+&nbsp;
+
+# Final Project
+
+:squirrel:
